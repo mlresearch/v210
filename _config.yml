@@ -80,7 +80,7 @@ volume_type: Volume
 volume_dir: v210
 email: ''
 conference:
-  name: Annual Conference on Neural Information Processing Systems
+  name: Gaze Meets Machine Learning Workshop
   url: https://gaze-meets-ml.github.io/
   location: New Orleans, USA
   dates:
